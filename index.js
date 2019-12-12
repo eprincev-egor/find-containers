@@ -25,5 +25,4 @@ const simpleCombination = findSimpleCombination(units, allArticles);
 const minCombination = findMinCombination(units, allArticles, simpleCombination);
 
 
-console.log(simpleCombination);
 console.log(minCombination);
